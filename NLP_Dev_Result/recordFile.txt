@@ -1,0 +1,6 @@
+CLEANTHES.txt
+DIETRICH, Christian.txt
+WOHLER, Friedrich.txt
+BLOOMFIELD, Robert.txt
+COMBE, William.txt
+CALLOT, Jacques.txt
